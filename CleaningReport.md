@@ -266,4 +266,4 @@ DROP COLUMN business_zip;
 
 We are now ready to start analyzing the dataset. 
 
-You can view details in the [Analytics Journal](https://github.com/)
+You can view details in the [Analytics Journal](https://github.com/ItsMundo/Electricians_In_Texas/blob/main/Analytics%20Journal.md)
