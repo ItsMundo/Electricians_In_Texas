@@ -248,62 +248,63 @@ OR
 
 Once the data was cleaned and analyzed with Excel and SQL, I connected to the MySQL database with Microsoft Power BI for further analysis and to begin visualizing the data. 
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ActiveElectriciansDonut.PNG?token=GHSAT0AAAAAABZW3QAJEXAICODUGMLFI4ZIY2CQJUA)  
 *(Chart portraying an overview of Electricians with Active Licenses in Texas up to 09/25/22)*
   
 ### Thoughts:
 When thinking of the hierarchy of electrical licenses, the easiest to obtain and to begin the journey of being an electrician is the apprentice license which shows to be dominating in regards to volume of licensed individuals. Residential Wireman on the other hand, being the smallest in number. In my experience working with electricians for the past 5 years, a lot of the technicians feel as though there is no point in obtaining the residential wireman license if they will almost immediately "test out" for the Journeyman license in 2 more years. 
 
-![image](https://user-images.githubusercontent.com/.png)  
-*(Heat Map showing the active electricians spread out in Texas up to 09/25/22 by county)*
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ActiveElectriciansByCountyMap.PNG?token=GHSAT0AAAAAABZW3QAIY6KYKFQVL6SGMLEWY2CQKTA)  
+*(Heat Map showing the active electricians spread out in Texas up to 09/25/22 by county, viewing the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM2MWNkODQtMDhkNi00YWJjLTkxNzctYmM4YmJlNzRhMTMxIiwidCI6ImY4NWQ0YzRjLTRlZDktNDM3Yi04ZGE2LWQ2YjFkMzYxZTM2NiJ9
+) in Power Bi and hovering over each respective county will show you more details and a breakdown the licenses in each county.)*
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/Top10CountiesByLicenseType.PNG?token=GHSAT0AAAAAABZW3QAJCKI66BHFIHZFWCDUY2CQL3Q)  
 *(Pivot table showing the most populated counties with Actively Licensed Electricians)*
 
 ### Thoughts:
 
 The bulk of the licensed technicians seem to be in the counties where major Texas Cities exist such as Houston, San Antonio, Dallas, El Paso, and Austin to name a few. With Harris County being the largest and more concentrated location of apprentice electricians it indicates that there is a greater chance of breaking into the field within that and surrounding counties. 
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/10yrExperiencedElectricians.PNG?token=GHSAT0AAAAAABZW3QAJBJ6RVNBYWXS4O6TUY2CQNLQ)  
 *(Heat Map showing the counties with electricians that have over 10 year experience and the total number of each type of license with over 10 years experience)*
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/10yrTop10Counties.PNG?token=GHSAT0AAAAAABZW3QAINV3P2O3JNO2RDCFQY2CQLRA)  
 *(Another Pivot Table showing the top 10 counties that have experienced electricians by type.)*
 
 ### *Thoughts:*
 
 The heat map is very similar to the one above with minor differences but one thing that stands out is the number of apprentice licenses with over 10 years of experience. If the Apprentice License is only designed to be 4 years before moving on to the Journeyman License where the majority of Electricians make the most income I'm curious to find out why such a high number. In my time I have met quite a few of the technicians who were just content with being helpers and some others that were just afraid of taking the state exams to advance forward in their licensure. Even then, without advancing to the next level of licensing, the technicians are only hindering there power to request a higher pay scale when being employed to perform electrical work. 
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/TotalExpiredvsIssued.PNG?token=GHSAT0AAAAAABZW3QAIHGBP7AN7223EIEAQY2CQOTQ)  
 *(Chart that shows the differences between Expired Licenses and the Issued Licenses for New Technicians throughout the year.)*
 
 ### *Thoughts:* 
 
 One thing to note, The issued dates are not only apprentice licenses being issued to new technicians but also as the technicians advance and test out to the next level, a new type and license number is issued, adding a value to this chart above. The number of issued licenses has always been greater than the licenses expired except with the sudden jump in the year of 2019-2022. The spike in the recent years required a further analysis. 
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ApprenticeIssuedvsExpired.PNG?token=GHSAT0AAAAAABZW3QAIR5MXOBGBYVXFJAHEY2CQPZA)  
 *(Chart showing Apprentice Licenses issued and expired by the year.)*
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ResidentialWiremanIssuedvsExpired.PNG?token=GHSAT0AAAAAABZW3QAJA7NO5MAWQMRBJOOIY2CQO4Q)  
 *(Chart showing Residential Wireman Licenses issued and expired by the year.)*
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/JourneymanIssuedvsExpired.PNG?token=GHSAT0AAAAAABZW3QAJOUAIGEVLRDLKOXDEY2CQPNQ)  
 *(Chart showing Journeyman Licenses issued and expired by the year.)*
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/MasterIssuedvsExpired.PNG?token=GHSAT0AAAAAABZW3QAJO55IWK3U7LFDGYN6Y2CQPAA)  
 *(Chart showing Master Electrician Licenses issued and expired by the year.)*
 
-![image](https://user-images.githubusercontent.com/.png)  
-*(Chart showing Electrical Contractor Licenses issued and expired by the year.)*
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ElectricalContractorIssuedVSExpired.PNG?token=GHSAT0AAAAAABZW3QAJ6GIE3PHGWRK3N4NMY2CQPUQ)  
+*(Chart showing Electrical Contractor Licenses issued and expired by the year.Not sure what the issue was in Power BI but I could not get the data to visualize for the years between 2014 and 2020, but the values are within the dataset.)*
 
 ### *Thoughts:*
 
 The bulk of the jump in licenses were with the apprentice licenses. My theory is that it was in relation to the pandemic that hit the US around 2019. My theory is as to why there was a noticable jump in the number of technicians in the year 2021 and 2022 likely due to Electricians being considered "Essential Workers" and being one of the highest paying trades available today in the workforce when the pandemic hit the United States in 2019-2020. According to the CDC's timeline found [here](https://www.cdc.gov/museum/timeline/covid19.html#:~:text=January%2010%2C%202020,%2DnCoV) around march of 2019 is when the US government entities were in the processs of shutting down businesses considered non essential leaving an unemployment rate of *"14.7%-the highest since the Great Depression."* With this in mind, A lot of the people who lost their jobs from layoffs as a result of the Coronavirus have decided to try and become an electrician. 
 
 
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/JourneymanAVGSalary.PNG?token=GHSAT0AAAAAABZW3QAI6NB4FK7O5RGMQN76Y2CQTJQ)  
 *(Table from Salary.com about Journeyman Electricians Income.)*
 
 ### *Thoughts:*
 
-According to this [report](https://www.salary.com/research/salary/alternate/electrician-journeyman-salary/dallas-tx) on Salary.com the average salary being reported for Journeyman Electricians in the Dallas/Fort Worth area ranges from $49,516 to $81,230. This alone most likely was an incentive for someone who was affected by the pandemic to put a toolbelt on and strive for this career path.
+According to this [report](https://www.salary.com/research/salary/alternate/electrician-journeyman-salary/dallas-tx) on Salary.com the average salary being reported for Journeyman Electricians in the Dallas/Fort Worth area ranges from $49,516 to $81,230. This alone most likely was an incentive for someone who was affected by the pandemic to put a tool belt on and strive for this career path.

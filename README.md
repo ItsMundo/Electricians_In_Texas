@@ -63,7 +63,7 @@ The primary tools for my analysis were Microsoft Excel, MySQL Workbench, Microso
 
 In the first step in processing the data, I utilized R programming to combine the datasets from 2 of the sources by a simple webscrape and join function. Details for this step can be found in the [R Markdown Report](https://texascountiesgisdata.netlify.app/) which in summary, combined the GIS data based on Texas Counties in regards to the County Numbers and the County Codes by Mailing Addresses. This first step ended us up with the dataset [Texas_Counties_GIS_Data_Final](https://docs.google.com/spreadsheets/d/14tZoSZokVC5MiGU60GWdX7WksUEG2_XwlfRmhH_cgo8/edit#gid=1495227071) available on google drive or in the Case Studies [repository](https://github.com/ItsMundo/Texas_GIS_Data_By_Counties) on [Github](https://github.com/).
 
-In addition to the above GIS dataset, the raw datasets that were provided by TDLR are available in the repository on my Github account. The details in the extensive cleaning process can be found in my [Cleaning Report](https://github.com/).
+In addition to the above GIS dataset, the raw datasets that were provided by TDLR are available in the repository on my Github account. The details in the extensive cleaning process can be found in my [Cleaning Report](https://github.com/ItsMundo/Electricians_In_Texas/blob/main/CleaningReport.md).
 
 In summary
 
@@ -71,7 +71,7 @@ In summary
   
 ## **Analyze**
   
-A full breakdown of my analysis process can be found in this [Analytics Journal](https://github.com/).  
+A full breakdown of my analysis process can be found in this [Analytics Journal](https://github.com/ItsMundo/Electricians_In_Texas/blob/main/Analytics%20Journal.md).  
   
 In summary, I explored the data, manipulated it in MySQL and created a couple subsets from the main dataset to tackle the business tasks above:
 * Differences in number of expired licenses vs active licenses. 
@@ -82,16 +82,16 @@ In summary, I explored the data, manipulated it in MySQL and created a couple su
   
 Several visualizations were produced. Below are some examples.  
   
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/TotalExpiredvsIssued.PNG?token=GHSAT0AAAAAABZW3QAJI4JARXUK5JXJWJFCY2CPRLQ)  
   
-![image](https://user-images.githubusercontent.com/.png)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/ActiveElectriciansDonut.PNG?token=GHSAT0AAAAAABZW3QAIH3JMU2MU7FQZ7MLOY2CPSRA)  
   
-![image](https://user-images.githubusercontent.com/.png)
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/Top10CountiesByLicenseType.PNG?token=GHSAT0AAAAAABZW3QAJ7FAYFAIYAIMDNDYKY2CPTQQ)
 
 
 ## **Share**
-![image](https://user-images.githubusercontent.com/.png)  
-![image](https://user-images.githubusercontent.com/.png) 
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard1.PNG?token=GHSAT0AAAAAABZW3QAJELXTXKZRG3RXT342Y2CPUEA)  
+![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard2.PNG?token=GHSAT0AAAAAABZW3QAJUSFHSKCDMZDI4U5KY2CPU3A) 
 *(Electricians In Texas Dashboard on Microsoft Power BI. )*  
   
 Key take aways: 
