@@ -92,7 +92,8 @@ Several visualizations were produced. Below are some examples.
 ## **Share**
 ![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard1.PNG?token=GHSAT0AAAAAABZW3QAJELXTXKZRG3RXT342Y2CPUEA)  
 ![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard2.PNG?token=GHSAT0AAAAAABZW3QAJUSFHSKCDMZDI4U5KY2CPU3A) 
-*(Electricians In Texas Dashboard on Microsoft Power BI. )*  
+*([Electricians In Texas Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM2MWNkODQtMDhkNi00YWJjLTkxNzctYmM4YmJlNzRhMTMxIiwidCI6ImY4NWQ0YzRjLTRlZDktNDM3Yi04ZGE2LWQ2YjFkMzYxZTM2NiJ9
+) on Microsoft Power BI. )*  
   
 Key take aways: 
 * The number of electricians available when it comes to workforce will be slowly rising throughout the years. 
