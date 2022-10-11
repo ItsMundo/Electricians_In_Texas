@@ -37,7 +37,7 @@ The current task is to analyze the data available at the states licensing websit
 ## **Prepare**
 ### Data Sources
 
-The data used in this Case Study were pulled from 3 different sources. 
+The raw data used in this Case Study were pulled from various sources as listed below. 
 #### 1. [Texas Department of Licensing and Regulations](https://www.tdlr.texas.gov/LicenseSearch/licfile.asp)
 *A request was submitted to the [TDLR Records Center](https://tdlr.govqa.us/WEBAPP/_rs/(S(4irhw5jw0tlwkpgiatupuotf))/SupportHome.aspx) requesting data for the past couple of years.*
 #### 2. [Texas Workforce Solutions](https://www.twc.texas.gov/tax-county-codes#countyCodesForEmployersQuarterlyReport) 
