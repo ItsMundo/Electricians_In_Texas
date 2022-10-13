@@ -1,9 +1,8 @@
-## Presentation
-[![Capture](https://user-images.githubusercontent.com/100551357/195494843-2fe6cdc0-f926-4f2a-a002-45f9f1eb676f.JPG)](https://youtu.be/eDojueO4rj0)
-
-
 # Electricians In Texas
 ### *Case Study for Google Data Analytics Capstone Project*
+
+## YouTube Presentation
+[![Capture](https://user-images.githubusercontent.com/100551357/195494843-2fe6cdc0-f926-4f2a-a002-45f9f1eb676f.JPG)](https://youtu.be/eDojueO4rj0)
 
 ## Project Overview
 In order to be an Electrician in the state of Texas you need to be licensed through the [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/) to perform any electrical work. 
