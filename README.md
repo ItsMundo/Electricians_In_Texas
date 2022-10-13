@@ -4,6 +4,9 @@
 ## YouTube Presentation
 [![Capture](https://user-images.githubusercontent.com/100551357/195494843-2fe6cdc0-f926-4f2a-a002-45f9f1eb676f.JPG)](https://youtu.be/eDojueO4rj0)
 
+**[Electricians In Texas Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM2MWNkODQtMDhkNi00YWJjLTkxNzctYmM4YmJlNzRhMTMxIiwidCI6ImY4NWQ0YzRjLTRlZDktNDM3Yi04ZGE2LWQ2YjFkMzYxZTM2NiJ9
+) on Microsoft Power BI.**
+
 ## Project Overview
 In order to be an Electrician in the state of Texas you need to be licensed through the [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/) to perform any electrical work. 
 
@@ -95,6 +98,7 @@ Several visualizations were produced. Below are some examples.
 ## **Share**
 ![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard1.PNG?token=GHSAT0AAAAAABZW3QAJELXTXKZRG3RXT342Y2CPUEA)  
 ![image](https://raw.githubusercontent.com/ItsMundo/Electricians_In_Texas/main/Images/EITDashboard2.PNG?token=GHSAT0AAAAAABZW3QAJUSFHSKCDMZDI4U5KY2CPU3A) 
+
 *([Electricians In Texas Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM2MWNkODQtMDhkNi00YWJjLTkxNzctYmM4YmJlNzRhMTMxIiwidCI6ImY4NWQ0YzRjLTRlZDktNDM3Yi04ZGE2LWQ2YjFkMzYxZTM2NiJ9
 ) on Microsoft Power BI. )*  
   
