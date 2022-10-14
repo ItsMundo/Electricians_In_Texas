@@ -74,6 +74,8 @@ In addition to the above GIS dataset, the raw datasets that were provided by TDL
 In summary
 
 - Duplicates were removed 
+- Unneccessary data was removed
+- Null values were filled in with corresponding information. 
   
 ## **Analyze**
   
